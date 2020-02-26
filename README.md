@@ -15,15 +15,14 @@
 
 
 
+![BMI Calculator](https://github.com/XinhangXu/Android-utility-app-MultiCalculator/blob/master/introduce_image/bmi_calculator.JPG)
+
 
 
 ![Date Gap](https://github.com/XinhangXu/Android-utility-app-MultiCalculator/blob/master/introduce_image/date_gap.JPG)
 ![Discount Calculator](https://github.com/XinhangXu/Android-utility-app-MultiCalculator/blob/master/introduce_image/discount_calculator.JPG)
 
 
-
-
-![BMI Calculator](https://github.com/XinhangXu/Android-utility-app-MultiCalculator/blob/master/introduce_image/bmi_calculator.JPG)
 
 
 
